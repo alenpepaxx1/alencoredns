@@ -1,6 +1,7 @@
 # AlenDNS Core
 
 AlenDNS Core is a highly advanced, full-stack network traffic, filtering, and DNS orchestration application. It features real-time network interception capabilities, zero-trust security policies, advanced geo-blocking, real-time threat intelligence, parental control, and bandwidth monitoring.
+<a href="https://ibb.co/zpGwnNR"><img src="https://i.ibb.co/Dh5nVLC/screencapture-localhost-3000-2026-06-21-05-34-56.png" alt="screencapture-localhost-3000-2026-06-21-05-34-56" border="0"></a>
 
 ## Features
 - **Real-Time DNS Dashboard:** Live metrics, latency tracking, threat drops, and system status.

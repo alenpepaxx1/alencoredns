@@ -1,0 +1,23 @@
+/* Copyright Alen Pepa */
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Inter:wght@400;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-theme-bg: #0A0B0E;
+  --color-theme-surface: #14161B;
+  --color-theme-border: #262A33;
+  --color-theme-accent: #00F0FF;
+  --color-theme-danger: #FF4B5C;
+  --color-theme-success: #00E676;
+  --color-theme-text-p: #F8FAFC;
+  --color-theme-text-s: #94A3B8;
+
+  --font-sans: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
+}
+
+body {
+  background-color: var(--color-theme-bg);
+  color: var(--color-theme-text-p);
+  font-family: var(--font-sans);
+}
